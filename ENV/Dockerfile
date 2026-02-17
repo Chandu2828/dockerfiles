@@ -1,0 +1,4 @@
+FROM almalinux:8
+ENV NAME=CHANDU \
+    AGE=26 \
+    LOCATION=HYD
