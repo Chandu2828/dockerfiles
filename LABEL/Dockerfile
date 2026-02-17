@@ -1,4 +1,4 @@
 FROM almalinux:8
 LABEL COURSE=DevOps \
       LEARNER=CHANDU
-      TOPIC=DOCKER
+      DURIATION=10HRS
